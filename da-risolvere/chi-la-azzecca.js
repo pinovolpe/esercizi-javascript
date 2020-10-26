@@ -20,8 +20,9 @@
   http://www.imparareaprogrammare.it
 */
 
-// ho fatto una piccola modifica al compito per renderlo più interessante, aggiornando più volte la pagina si apprezza la logica del programma:
+// ho fatto una piccola modifica al compito per renderlo più interessante
 // i numeri sono da 1 a 6 (come al gioco dei dadi), casuali sia per i giocatori che per il banco
+// aggiornando più volte la pagina si apprezza la logica del programma
 
 var dado = Math.floor(Math.random() * (6-1) + 1);
 var giocatore1 = {
@@ -33,7 +34,8 @@ var giocatore2 = {
   punteggio : Math.floor(Math.random() * (6-1) + 1)
 };
 
-// counts e closest non sono farina del mio sacco, ho dovuto cercare su stackoveflow :'(
+// counts e closest non sono farina del mio sacco, ho dovuto cercare su stackoverflow
+// https://stackoverflow.com/questions/8584902/get-the-closest-number-out-of-an-array
 
 var counts = [giocatore1.punteggio, giocatore2.punteggio];
 var closest = counts.reduce(function(prev, curr) {
