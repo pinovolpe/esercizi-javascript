@@ -1,23 +1,23 @@
 # Esercizi di programmazione gratuiti
-Qui troverai una serie di esercizi di informatica divisi per argomento e difficoltà (facili, medi e difficili). Sono esercizi totalmente gratuiti che puoi risolvere, sia se sei un mio studente del [Corso di Informatica: Programmatore Perfetto](https://www.programmaconalberto.it/p/corso-di-programmazione-programmatore-perfetto), sia se non stai seguendo le mie lezioni ma vuoi semplicemente esercitarti. Ho pensato di pubblicarli gratuitamente, proprio per dare a tutti la possibilità di fare molta pratica, dato che **il modo migliore per imparare a programmare è proprio facendo pratica**.
+Qui troverai una serie di esercizi di informatica divisi per argomento e difficoltà (facili, medi e difficili). Sono esercizi totalmente gratuiti che puoi risolvere. Ho pensato di pubblicarli gratuitamente, proprio per dare a tutti la possibilità di fare molta pratica, dato che **il modo migliore per imparare a programmare è proprio facendo pratica**.
 
 Goditi gli esercizi e... buona programmazione!
 
 ## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
-  * Somma e media
-  * Quanti anni ha?
-  * Conta il tempo
-  * Gatti in fila
+  * Somma e media - **(Risolto)**
+  * Quanti anni ha? - **(Risolto)**
+  * Conta il tempo - **(Risolto)**
+  * Gatti in fila - **(Risolto)**
 
 ## Esercizi sulle condizioni (if e switch)
 * **Facili**
-  * Pari o Dispari?
-  * Maggiore e minore
-  * Menu dei dolci
-  * Conta le cifre
+  * Pari o Dispari? - **(Risolto)**
+  * Maggiore e minore - **(Risolto)**
+  * Menu dei dolci - **(Risolto)**
+  * Conta le cifre - **(Risolto)**
 * **Medi**
-  * Caldo o freddo?
+  * Caldo o freddo? - **(Risolto)**
   * Chi l'azzecca?
   * Che giorno è oggi?
 * **Difficili**
@@ -26,8 +26,8 @@ Goditi gli esercizi e... buona programmazione!
   
 ## Esercizi sui cicli (for, while e do-while)
 * **Facili**
-  * Rincorri la decina
-  * Ti ricordi le tabelline?
+  * Rincorri la decina - **(Risolto)**
+  * Ti ricordi le tabelline? - **(Risolto)**
 * **Medi**
   * Vinci tu!
   * Il calendario mediocre
