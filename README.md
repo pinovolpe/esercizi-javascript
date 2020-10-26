@@ -1,7 +1,4 @@
-# Esercizi di programmazione gratuiti
-Qui troverai una serie di esercizi di informatica divisi per argomento e difficoltà (facili, medi e difficili). Sono esercizi totalmente gratuiti che puoi risolvere. Ho pensato di pubblicarli gratuitamente, proprio per dare a tutti la possibilità di fare molta pratica, dato che **il modo migliore per imparare a programmare è proprio facendo pratica**.
-
-Goditi gli esercizi e... buona programmazione!
+# Esercizi di programmazione JavaScript
 
 ## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
