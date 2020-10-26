@@ -15,7 +15,7 @@
   * Conta le cifre - **(Risolto)**
 * **Medi**
   * Caldo o freddo? - **(Risolto)**
-  * Chi l'azzecca?
+  * Chi l'azzecca? - **(Risolto)**
   * Che giorno è oggi?
 * **Difficili**
   * Fai il professore
