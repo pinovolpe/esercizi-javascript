@@ -29,8 +29,8 @@
   http://www.imparareaprogrammare.it
 */
 
-var a = parseInt(prompt('Inserisci un numero interno'));
-var b = parseInt(prompt('Inserisci un altro numero interno'));
+var a = parseInt(prompt('Inserisci un numero intero'));
+var b = parseInt(prompt('Inserisci un altro numero intero'));
 var operazione = prompt('Inserisci una di queste parole per eseguire l\'operazione: somma, sottrazione, moltiplicazione, divisione, modulo, potenza, media');
 var somma = a + b;
 var sottrazione = a - b;
