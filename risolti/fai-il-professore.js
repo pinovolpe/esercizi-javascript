@@ -20,7 +20,7 @@
 */
 
 // Utilizza costrutto If
-// Lascio generare il voto al computer
+// Lascio generare un numero random da 1 a 30 al computer
 
 var voto = Math.floor(Math.random() * (30-1) + 1);
 
