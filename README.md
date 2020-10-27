@@ -16,7 +16,7 @@
 * **Medi**
   * Caldo o freddo? - **(Risolto)**
   * Chi l'azzecca? - **(Risolto)**
-  * Che giorno è oggi?
+  * Che giorno è oggi? - **(Risolto)**
 * **Difficili**
   * Fai il professore
   * La calcolatrice
