@@ -18,7 +18,7 @@
   * Chi l'azzecca? - **(Risolto)**
   * Che giorno è oggi? - **(Risolto)**
 * **Difficili**
-  * Fai il professore
+  * Fai il professore - **(Risolto)**
   * La calcolatrice
   
 ## Esercizi sui cicli (for, while e do-while)
