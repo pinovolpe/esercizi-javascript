@@ -37,7 +37,7 @@ var sottrazione = a - b;
 var moltiplicazione = a * b;
 var divisione = a / b;
 var modulo = a % b;
-var potenza = Math.pow(a, b);;
+var potenza = a ** b; // oppure Math.pow(a, b);
 var media = (a + b) / 2;
 
 switch (operazione) {
