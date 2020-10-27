@@ -19,7 +19,7 @@
   * Che giorno è oggi? - **(Risolto)**
 * **Difficili**
   * Fai il professore - **(Risolto)**
-  * La calcolatrice
+  * La calcolatrice - **(Risolto)**
   
 ## Esercizi sui cicli (for, while e do-while)
 * **Facili**
