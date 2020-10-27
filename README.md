@@ -26,7 +26,7 @@
   * Rincorri la decina - **(Risolto)**
   * Ti ricordi le tabelline? - **(Risolto)**
 * **Medi**
-  * Vinci tu!
+  * Vinci tu! - **(Risolto)**
   * Il calendario mediocre
 * **Difficili**
   * Rombo che stampa!
