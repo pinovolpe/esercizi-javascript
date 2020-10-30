@@ -44,7 +44,7 @@ var closest = counts.reduce(function(prev, curr) {
 
 // le righe che seguono sì però, le ho scritte io! :)
 
-if (dado == giocatore1.punteggio == giocatore2.punteggio) {
+if (dado == giocatore1.punteggio && dado == giocatore2.punteggio) {
   document.write(`Banco = ${dado}, ${giocatore1.nome} = ${giocatore1.punteggio}, ${giocatore2.nome} = ${giocatore2.punteggio}`);
   document.write(`<br>PAREGGIO!`);
 }

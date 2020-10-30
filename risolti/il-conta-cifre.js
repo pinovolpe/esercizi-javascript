@@ -12,8 +12,9 @@
   http://www.imparareaprogrammare.it
 */
 
-var numero1 = '9';
-var numero2 = '245';
-document.write('numero ' + numero1 + ' = ' + numero1.length + ' cifra');
-document.write('<br />');
-document.write('numero ' + numero2 + ' = ' + numero2.length + ' cifre');
+//var numero1 = '9';
+//var numero2 = '245';
+//document.write('numero ' + numero1 + ' = ' + numero1.length + ' cifra');
+//document.write('numero ' + numero2 + ' = ' + numero2.length + ' cifre');
+var n = Math.floor(Math.random() * 9999);
+document.write(`Il numero ${n} è composto da ${n.toString().length} cifre`);
