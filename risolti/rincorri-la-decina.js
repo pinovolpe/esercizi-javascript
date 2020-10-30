@@ -14,11 +14,15 @@
             81 82 83 84 85 86 87 88 89 90
             91 92 93 94 95 96 97 98 99 100
 
+  Consiglio:
+  Per andare a capo usa '\n'.
+
   http://www.imparareaprogrammare.it
 */
 
-//Nota: per risolvere questo esercizio ci ho messo mooolto tempo!
+document.write('<pre>');
 for (i = 1; i <= 100; i++) {
-	document.write(i + ' ');
+	document.write(i + '\t');
 	if (i%10 == 0) document.write('<br />');
 }
+document.write('</pre>');

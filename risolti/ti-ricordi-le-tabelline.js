@@ -9,9 +9,18 @@
   http://www.imparareaprogrammare.it
 */
 
+// Ciclo for
+var tabellina = 5;
+for(var i = 0; i <= 10; i++) {
+  risultato = i * tabellina;
+  document.write(`${tabellina} * ${i} = ${risultato}<br>`);
+}
+
+// Ciclo while
 var	tabellina = 5;
 var	i = 0;
 while(i <= 10) {
-	document.write(tabellina * i + ' ');
+  risultato = i * tabellina;
+  document.write(`${tabellina} * ${i} = ${risultato}<br>`);
 	i = i + 1;
 }
