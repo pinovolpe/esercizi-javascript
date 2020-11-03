@@ -14,6 +14,7 @@
   http://www.imparareaprogrammare.it
 */
 
+// VECCHIA SOLUZIONE: UTILIZZO 2 CICLI FOR
 // var maxTiri = Math.floor(Math.random() * (6-1) + 1);
 // var numeroTiri = 1;
 // var numeroTiri2 = 1;
