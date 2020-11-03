@@ -14,37 +14,66 @@
   http://www.imparareaprogrammare.it
 */
 
-var maxTiri = Math.floor(Math.random() * (6-1) + 1);
-var numeroTiri = 1;
-var numeroTiri2 = 1;
-var punteggio = 0;
-var punteggio2 = 0;
+// var maxTiri = Math.floor(Math.random() * (6-1) + 1);
+// var numeroTiri = 1;
+// var numeroTiri2 = 1;
+// var punteggio = 0;
+// var punteggio2 = 0;
+
+// document.write("Avete diritto a " + maxTiri + " tiri");
+// document.write('<br><br>');
+
+// for (numeroTiri; numeroTiri <= maxTiri; numeroTiri++) {
+//     var punteggioTiro = Math.floor(Math.random() * (6-1) + 1);
+//     punteggio += punteggioTiro;
+//     document.write("Giocatore A tiro " + numeroTiri + ": " + punteggioTiro + "<br>");
+// }
+// document.write("Totale Giocatore A: " + punteggio);
+
+// document.write('<br><br>');
+
+// for (numeroTiri2; numeroTiri2 <= maxTiri; numeroTiri2++) {
+//     var punteggioTiro2 = Math.floor(Math.random() * (6-1) + 1);
+//     punteggio2 += punteggioTiro2;
+//     document.write("Giocatore B tiro " + numeroTiri2 + ": " + punteggioTiro2 + "<br>");
+// }
+// document.write("Totale Giocatore B: " + punteggio2);
+
+// document.write('<br><br>');
+
+// if(punteggio > punteggio2)
+// document.write("Ha vinto Giocatore A");
+// else if(punteggio == punteggio2)
+// document.write("PAREGGIO");
+// else
+// document.write("Ha vinto Giocatore B");
+
+// UPDATE: RISOLVO L'ESERCIZIO CON L'USO DI UN SOLO CICLO FOR
+var maxTiri = Math.floor(Math.random() * (6 - 1) + 1);
+var punteggioA = 0;
+var punteggioB = 0;
 
 document.write("Avete diritto a " + maxTiri + " tiri");
-document.write('<br><br>');
+document.write('<hr>');
 
-for (numeroTiri; numeroTiri <= maxTiri; numeroTiri++) {
-    var punteggioTiro = Math.floor(Math.random() * (6-1) + 1);
-    punteggio += punteggioTiro;
-    document.write("Giocatore A tiro " + numeroTiri + ": " + punteggioTiro + "<br>");
+for (numeroTiri = 1; numeroTiri <= maxTiri; numeroTiri++) {
+    var punteggioTiroA = Math.floor(Math.random() * (6 - 1) + 1);
+    var punteggioTiroB = Math.floor(Math.random() * (6 - 1) + 1);
+    punteggioA += punteggioTiroA;
+    punteggioB += punteggioTiroB;
+    document.write("Giocatore A tiro " + numeroTiri + ": " + punteggioTiroA + "<br>");
+    document.write("Giocatore B tiro " + numeroTiri + ": " + punteggioTiroB + "<br>");
 }
-document.write("Totale Giocatore A: " + punteggio);
 
-document.write('<br><br>');
+document.write('<hr>');
+document.write("Totale Giocatore A: " + punteggioA);
+document.write('<br>');
+document.write("Totale Giocatore B: " + punteggioB);
+document.write('<hr>');
 
-for (numeroTiri2; numeroTiri2 <= maxTiri; numeroTiri2++) {
-    var punteggioTiro2 = Math.floor(Math.random() * (6-1) + 1);
-    punteggio2 += punteggioTiro2;
-    document.write("Giocatore B tiro " + numeroTiri2 + ": " + punteggioTiro2 + "<br>");
-}
-document.write("Totale Giocatore B: " + punteggio2);
-
-document.write('<br><br>');
-
-if(punteggio > punteggio2)
-document.write("Ha vinto Giocatore A");
-else if(punteggio == punteggio2)
-document.write("PAREGGIO");
+if (punteggioA > punteggioB)
+    document.write("Ha vinto Giocatore A");
+else if (punteggioA == punteggioB)
+    document.write("PAREGGIO");
 else
-document.write("Ha vinto Giocatore B");
-    
+    document.write("Ha vinto Giocatore B");
