@@ -20,9 +20,26 @@
   http://www.imparareaprogrammare.it
 */
 
+// Formattazione normale
 document.write('<pre>');
 for (i = 1; i <= 100; i++) {
-	document.write(i + '\t');
-	if (i%10 == 0) document.write('<br />');
+    document.write(i + ' ');
+    if (i % 10 == 0) document.write('<br />');
+}
+document.write('</pre>');
+
+// Formattazione con tab
+document.write('<pre>');
+for (i = 1; i <= 100; i++) {
+    document.write(i + '\t');
+    if (i % 10 == 0) document.write('<br />');
+}
+document.write('</pre>');
+
+// Formattazione con padStart
+document.write('<pre>');
+for (i = 1; i <= 100; i++) {
+    document.write(i.toString().padStart(5, ' '));
+    if (i % 10 == 0) document.write('<br />');
 }
 document.write('</pre>');
