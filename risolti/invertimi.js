@@ -15,3 +15,16 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var a = Array(5).fill().map(() => Math.floor(Math.random() * 99));
+
+function reverseArr(input) {
+    var ret = new Array;
+    for (var i = input.length - 1; i >= 0; i--) {
+        ret.push(input[i]);
+    }
+    return ret;
+}
+
+document.write(`Input: N = 5<br>`);
+document.write(`array ottenuto = [${a}], array invertito = [${reverseArr(a)}]`);
