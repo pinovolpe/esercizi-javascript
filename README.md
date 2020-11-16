@@ -33,7 +33,7 @@
   
 ## Esercizi sulle array
 * **Facili**
-  * Invertimi
+  * Invertimi - **(Risolto)**
   * Tanti numeri - **(Risolto)**
 * **Medi**
   * La tombola magica
