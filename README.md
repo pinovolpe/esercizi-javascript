@@ -34,7 +34,7 @@
 ## Esercizi sulle array
 * **Facili**
   * Invertimi
-  * Tanti numeri
+  * Tanti numeri - **(Risolto)**
 * **Medi**
   * La tombola magica
   * Operazioni tra array
