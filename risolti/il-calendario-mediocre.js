@@ -45,3 +45,31 @@
 
   http://www.imparareaprogrammare.it
 */
+
+// Svolgimento regolare
+var settimana = ['Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato', 'Domenica'];
+var giorno = settimana.indexOf('Lunedì');
+var output = '';
+
+for (var i = 1; i < 31 + 1; i++) {
+    giorno = (giorno % 7);
+    output += settimana[giorno] + ' ' + i + '<br>';
+    giorno++;
+}
+document.write(output);
+
+// Svolgimento variante
+var settimana = ['Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato', 'Domenica'];
+var mesi = ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'];
+var giorni = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+var mese = mesi.indexOf('Gennaio');
+var giorniMese = giorni[mese];
+var giorno = settimana.indexOf('Lunedì');
+var output = '';
+
+for (var i = 1; i < giorniMese + 1; i++) {
+    giorno = (giorno % 7);
+    output += settimana[giorno] + ' ' + i + '<br>';
+    giorno++;
+}
+document.write(output);

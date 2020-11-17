@@ -27,7 +27,7 @@
   * Ti ricordi le tabelline? - **(Risolto)**
 * **Medi**
   * Vinci tu! - **(Risolto)**
-  * Il calendario mediocre
+  * Il calendario mediocre - **(Risolto)**
 * **Difficili**
   * Rombo che stampa!
   
