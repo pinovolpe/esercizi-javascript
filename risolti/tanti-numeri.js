@@ -14,20 +14,9 @@
 */
 
 var a = [3, 5, 10, 2, 8]
-var somma = a.reduce((previous, next) => {
-    return previous + next;
-});
-var numeri = a.length;
-var media = somma / numeri;
-
-function min(value) {
-    return value <= media;
-}
-var minori = a.filter(min);
-
-function max(value) {
-    return value >= media;
-}
-var maggiori = a.filter(max);
+var somma = a.reduce((accumulator, currentValue) => accumulator + currentValue);
+var media = somma / a.length;
+var minori = a.filter(function(numbers) { return numbers <= media });
+var maggiori = a.filter(function(numbers) { return numbers >= media });
 
 document.write(`Array = [${a}]<br>Somma = ${somma}, media = ${media}, valori minori = [${minori}], valori maggiori = [${maggiori}]`);
