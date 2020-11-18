@@ -37,7 +37,7 @@
   * Tanti numeri - **(Risolto)**
 * **Medi**
   * La tombola magica - **(Risolto)**
-  * Operazioni tra array
+  * Operazioni tra array - **(Risolto)**
 * **Difficili**
   * Azzecca e azzera
   * Metti un po’ d’ordine
