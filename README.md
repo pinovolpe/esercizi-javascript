@@ -29,7 +29,7 @@
   * Vinci tu! - **(Risolto)**
   * Il calendario mediocre - **(Risolto)**
 * **Difficili**
-  * Rombo che stampa!
+  * Rombo che stampa! - **(Risolto)**
   
 ## Esercizi sulle array
 * **Facili**
