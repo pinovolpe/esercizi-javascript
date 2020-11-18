@@ -36,7 +36,7 @@
   * Invertimi - **(Risolto)**
   * Tanti numeri - **(Risolto)**
 * **Medi**
-  * La tombola magica
+  * La tombola magica - **(Risolto)**
   * Operazioni tra array
 * **Difficili**
   * Azzecca e azzera
