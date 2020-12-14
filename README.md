@@ -60,8 +60,8 @@
 ## Esercizi sulle funzioni
 
 - **Facili**
-  - La funzione banale
-  - Primo e ultimo
+  - La funzione banale - **(Risolto)**
+  - Primo e ultimo - **(Risolto)**
   - La difficoltà del fattoriale
   - Tick, tack, timer!
   - Indovina il giorno

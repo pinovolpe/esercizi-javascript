@@ -16,3 +16,15 @@
     
   http://www.imparareaprogrammare.it
 */
+
+let n = 2;
+let m = '2';
+
+function uguaglianza(a, b) {
+  if (a === b)
+    return 'true';
+  else
+    return 'false';
+}
+
+document.write(uguaglianza(n, m));
