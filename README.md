@@ -66,7 +66,7 @@
   - Tick, tack, timer!
   - Indovina il giorno
 - **Medi**
-  - Conta il numero
+  - Conta il numero - **(Risolto)**
   - La bellezza della casualità
   - La funzione che sembra difficile
   - Il genio delle date
