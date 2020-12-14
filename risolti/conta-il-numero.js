@@ -13,6 +13,7 @@
   http://www.imparareaprogrammare.it
 */
 
+// Soluzione 1
 function cifre() {
   let n = Math.floor(Math.random() * 9999);
   document.write(n);
