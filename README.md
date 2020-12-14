@@ -43,8 +43,8 @@
   - La tombola magica - **(Risolto)**
   - Operazioni tra array - **(Risolto)**
 - **Difficili**
-  - Azzecca e azzera
-  - Metti un po’ d’ordine
+  - Azzecca e azzera - **(Risolto)**
+  - Metti un po’ d’ordine - **(Risolto)**
 
 ## Esercizi sulle array multidimensionali
 
