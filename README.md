@@ -49,8 +49,8 @@
 ## Esercizi sulle array multidimensionali
 
 - **Facili**
-  - Procedi alla cieca
-  - Le tabelline nel tabellone
+  - Procedi alla cieca - **(Risolto)**
+  - Le tabelline nel tabellone - **(Risolto)**
 - **Medi**
   - Il sottosopra
   - Sommali tutti

@@ -7,3 +7,6 @@
 
   http://www.imparareaprogrammare.it
 */
+
+let matrice = Array.from({ length: Math.floor(Math.random() * 100) }, () => Math.floor(Math.random() * 100));
+document.write(matrice);
