@@ -53,9 +53,9 @@
   - Le tabelline nel tabellone - **(Risolto)**
 - **Medi**
   - Il sottosopra - **(Risolto)**
-  - Sommali tutti
+  - Sommali tutti - **(Risolto)**
 - **Difficili**
-  - Righe o colonne?
+  - Righe o colonne? - **(Risolto)**
 
 ## Esercizi sulle funzioni
 
