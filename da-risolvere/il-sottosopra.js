@@ -17,3 +17,19 @@
 
   http://www.imparareaprogrammare.it
 */
+
+    <script>
+      function transpose(matrix) {
+        return Object.keys(matrix[0]).map((colNumber) =>
+          matrix.map((rowNumber) => rowNumber[colNumber])
+        );
+      }
+
+      console.log(
+        transpose([
+          [1, 2],
+          [3, 4],
+          [5, 6],
+        ])
+      );
+    </script>
