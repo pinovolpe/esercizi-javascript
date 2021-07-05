@@ -64,7 +64,7 @@
   - Primo e ultimo - **(Risolto)**
   - La difficoltà del fattoriale - **(Risolto)**
   - Tick, tack, timer! - **(Risolto)**
-  - Indovina il giorno
+  - Indovina il giorno - **(Risolto)**
 - **Medi**
   - Conta il numero - **(Risolto)**
   - La bellezza della casualità
