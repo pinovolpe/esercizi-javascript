@@ -52,7 +52,7 @@
   - Procedi alla cieca - **(Risolto)**
   - Le tabelline nel tabellone - **(Risolto)**
 - **Medi**
-  - Il sottosopra
+  - Il sottosopra - **(Risolto)**
   - Sommali tutti
 - **Difficili**
   - Righe o colonne?
