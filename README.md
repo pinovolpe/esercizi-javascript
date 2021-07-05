@@ -62,7 +62,7 @@
 - **Facili**
   - La funzione banale - **(Risolto)**
   - Primo e ultimo - **(Risolto)**
-  - La difficoltà del fattoriale
+  - La difficoltà del fattoriale - **(Risolto)**
   - Tick, tack, timer! - **(Risolto)**
   - Indovina il giorno
 - **Medi**
