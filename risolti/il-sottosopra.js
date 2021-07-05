@@ -19,6 +19,8 @@
 */
 
     <script>
+      //https://stackoverflow.com/questions/4492678/swap-rows-with-columns-transposition-of-a-matrix-in-javascript
+      
       function transpose(matrix) {
         return Object.keys(matrix[0]).map((colNumber) =>
           matrix.map((rowNumber) => rowNumber[colNumber])
