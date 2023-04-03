@@ -67,7 +67,7 @@
   - Indovina il giorno - **(Risolto)**
 - **Medi**
   - Conta il numero - **(Risolto)**
-  - La bellezza della casualità
+  - La bellezza della casualità - **(Risolto)**
   - La funzione che sembra difficile
   - Il genio delle date
   - Pa-pa-pa lindomo
