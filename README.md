@@ -68,7 +68,7 @@
 - **Medi**
   - Conta il numero - **(Risolto)**
   - La bellezza della casualità - **(Risolto)**
-  - La funzione che sembra difficile
+  - La funzione che sembra difficile - **(Risolto)**
   - Il genio delle date
   - Pa-pa-pa lindomo
 - **Difficili**
