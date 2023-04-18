@@ -69,7 +69,7 @@
   - Conta il numero - **(Risolto)**
   - La bellezza della casualità - **(Risolto)**
   - La funzione che sembra difficile - **(Risolto)**
-  - Il genio delle date
+  - Il genio delle date - **(Risolto)**
   - Pa-pa-pa lindomo
 - **Difficili**
   - Fai il sensitivo
