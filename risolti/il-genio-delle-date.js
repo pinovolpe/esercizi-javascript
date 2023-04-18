@@ -14,6 +14,8 @@
   http://www.imparareaprogrammare.it
 */
 
+SOLUZIONE 1: - FOR LOOP
+
 function calculateDayNumber(day, month){
   const dayInMonths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
   let calculatedDay = 0;
@@ -25,4 +27,17 @@ function calculateDayNumber(day, month){
   return calculatedDay + day;
 }
 
-calculateDayNumber(5, 2);
+calculateDayNumber(5, 2); //36
+
+SOLUZIONE 2: - SLICE + FOREACH
+
+function calculateDayNumber(day, month){
+  const dayInMonths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  let calculatedDay = 0;
+  
+  dayInMonths.slice(0, month - 1).forEach((value) => { calculatedDay += value; })
+
+  return calculatedDay + day;
+}
+
+ calculateDayNumber(5, 2); //36
