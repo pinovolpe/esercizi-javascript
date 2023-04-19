@@ -14,3 +14,10 @@
 
   http://www.imparareaprogrammare.it
 */
+
+function palindrome(str) {
+  var lowRegStr = str.toLowerCase().replace(/[\W_]/g, "");
+  var reverseStr = lowRegStr.split("").reverse().join(""); 
+  return reverseStr === lowRegStr;
+}
+palindrome("I topi non avevano nipoti");
