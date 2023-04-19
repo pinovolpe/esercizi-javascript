@@ -70,7 +70,7 @@
   - La bellezza della casualità - **(Risolto)**
   - La funzione che sembra difficile - **(Risolto)**
   - Il genio delle date - **(Risolto)**
-  - Pa-pa-pa lindomo
+  - Pa-pa-pa lindomo - **(Risolto)**
 - **Difficili**
   - Fai il sensitivo
   - I primi numeri… primi!
